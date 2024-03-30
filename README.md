@@ -1,4 +1,3 @@
 - Hi, I’m @Xanteroz
-- I'm 19 years old
-- I'm into FiveM Vehicle devolpment
-- You can reach me on discord: Xantero#1288
+- I'm 20 years old
+- Im learning FiveM vehicle development
