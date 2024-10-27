@@ -1,3 +1,1 @@
-- Hi, I’m @Xanteroz
-- I'm 20 years old
-- Im learning FiveM vehicle development
+Hi
